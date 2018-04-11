@@ -1,5 +1,9 @@
 <p>The teacher understands the central concepts, tools of inquiry, and structures of the discipline(s) he or she teaches and creates learning experiences that make these aspects of the discipline accessible and meaningful for learners.</p>
 <h4>PDFs</h4>
+<p><a href="Converse%20of%20Nonparallel%20lines%20proof.pdf">Converse of Nonparallel Lines Proof</a></p>
+<p><a href="6-6%20Parallel%20lines%20GT%20Lesson%20Plan.pdf">InTASC 4 Lesson Plan</a></p>
+<p><a href="InTASC%204%20Reflection%201.pdf">Reflection of Content Knowledge</a></p>
+<p><a href="InTASC%204%20Reflection%202.pdf">Reflection of Lesson Plan</a></p>
 
 <p>Abstract: In this portfolio entry, the lesson plan and proof are a geometric look at the angles created when two parallel lines are crossed by a transversal. The first reflection includes a simple overview of the proof, and the second reflection is all about the lesson implementation. Foldables are always engaging for students to create, but the geometry behind the creation of these angles and their properties is difficult to grasp. This entry is all about this difficulty and how to teach it to students.</p>
 <p>Rationale: I am proud of this lesson because the foldable is fun and engaging for students, while also helping them grasp a difficult topic. It is hard for 6th graders to distinguish vocabulary and properties of the angles created in this situation and a lesson such as this with a foldable and then practice/extension problems is fantastic to help them succeed.</p>
