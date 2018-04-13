@@ -17,3 +17,16 @@
 <p>The lesson plan provided is an excellent way to demonstrate content knowledge of geometry. The angles created by two parallel lines being crossed by a transversal is a long list of vocabulary and properties to learn and understand. In addition, comprehending the reasoning and justifications behind those properties is even more challenging. The proof I wrote was one I asked by students to justify in simple terms using their newly learned vocabulary as an extension. This extension, using properties of angles to justify nonparallel lines, is a great way to change the viewpoint of their new knowledge.</p>
 <p>When I was planning this lesson, I fell back on my knowledge of geometry to reason how I would clarify and explain the different types of angles created. Since this lesson includes so many different types of angles, it was important that I was accurate in my planning as to not confuse students further than they were likely already to be. Not only was this important while distinguishing vocab, it was also imperative when discussing the different properties of the pairs, such as congruency and supplements. Furthermore, I needed to know the reasoning behind every single type and pair of angles because students were likely to question why the properties existed. Therefore my content knowledge about this lesson was incredibly vital not only for my own comfort, but for the student’s education as well.</p>
 <p>While teaching the lesson, I found that while my knowledge was great, my advanced mathematical vocabulary was not enough for students to understand. Therefore when explaining the different angles, I asked other students who did comprehend what I was saying to relay that in a different way, or to rephrase. This strategy worked wonderfully, and I ended up using that rephrasing in other classes because it made so much sense to students. Therefore this rephrasing was a huge influence on my implementation of the lesson because I could explain how I wanted to explain mathematically and then rephrase using a student’s perspective. This made a significant difference in student comprehension of corresponding angles. This experience has also influenced me to go even simpler with my explanations, and in addition ask for students to paraphrase. Thus during the planning and implementation of this lesson, my content knowledge was both important to and improvable for the education of my students.</p>
+
+
+<h2 align="center">Portfolio Entries</h2>
+<p align="center"><a href="https://etrumble.github.io/Emily-Trumble-Portfolio/">Introduction</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_1/">InTASC 1</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_2/">InTASC 2</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_3/">InTASC 3</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_4/">InTASC 4</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_5/">InTASC 5</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/Technology_Standard/">Technology Standard</a></p>
